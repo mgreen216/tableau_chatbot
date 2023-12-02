@@ -1,6 +1,7 @@
 import streamlit as st
 import tableauserverclient as TSC
 import requests
+from requests.exceptions import JSONDecodeError, SomeOtherException
 from bs4 import BeautifulSoup
 import os
 import matplotlib.pyplot as plt
