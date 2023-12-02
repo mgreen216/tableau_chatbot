@@ -103,7 +103,7 @@ def main():
     st.info("Check out the full Factbook at the our university page (https://public.tableau.com/app/profile/hfuieti/vizzes)", icon="📊")
 
     if "messages" not in st.session_state.keys(): # Initialize the chat messages history
-    st.session_state.messages = [
+        st.session_state.messages = [
         {"role": "assistant", "content": "Ask me a question about Holy Family University's data!"}
     ]
 
