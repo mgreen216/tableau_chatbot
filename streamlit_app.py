@@ -31,7 +31,7 @@ tableau_site = ""  # No site specified for public Tableau sites
 additional_info_urls = [
     "https://www.holyfamily.edu/about/news-and-media/fast-facts",
     "https://www.holyfamily.edu/about",
-    "https://nces.ed.gov/collegenavigator/?s=all&zc=19114&zd=0&of=3&id=212984,
+    "https://nces.ed.gov/collegenavigator/?s=all&zc=19114&zd=0&of=3&id=212984",
     "https://collegescorecard.ed.gov/school/?212984-Holy-Family-University"
 ]
 
