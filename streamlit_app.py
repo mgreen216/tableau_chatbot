@@ -1,4 +1,3 @@
-import openai
 import streamlit as st
 import tableauserverclient as TSC
 import requests
